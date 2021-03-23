@@ -8,20 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Natacha\\.nuget\\packages\\": {}
+    "C:\\Users\\xavie\\.nuget\\packages\\": {},
+    "A:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Natacha\\Desktop\\POC-SUMIT\\POC-SUMIT\\POC-SUMIT\\POC-SUMIT.csproj",
+      "projectUniqueName": "C:\\Users\\xavie\\OneDrive\\Desktop\\Nouveau dossier\\POC-SUMIT\\POC-SUMIT\\POC-SUMIT.csproj",
       "projectName": "POC-SUMIT",
-      "projectPath": "C:\\Users\\Natacha\\Desktop\\POC-SUMIT\\POC-SUMIT\\POC-SUMIT\\POC-SUMIT.csproj",
-      "packagesPath": "C:\\Users\\Natacha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Natacha\\Desktop\\POC-SUMIT\\POC-SUMIT\\POC-SUMIT\\obj\\",
+      "projectPath": "C:\\Users\\xavie\\OneDrive\\Desktop\\Nouveau dossier\\POC-SUMIT\\POC-SUMIT\\POC-SUMIT.csproj",
+      "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\xavie\\OneDrive\\Desktop\\Nouveau dossier\\POC-SUMIT\\POC-SUMIT\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "A:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Natacha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\xavie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -63,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
