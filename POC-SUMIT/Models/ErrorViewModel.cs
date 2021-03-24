@@ -1,5 +1,3 @@
-using System;
-
 namespace POC_SUMIT.Models
 {
     public class ErrorViewModel
